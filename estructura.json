@@ -1,0 +1,11 @@
+{
+  "nombre_paciente": "Juan Pérez",
+  "edad": 45,
+  "sexo": "Masculino",
+  "fecha_consulta": "2025-04-24",
+  "motivo_consulta": "Dolor abdominal agudo",
+  "antecedentes": "Hipertensión controlada con losartán.",
+  "diagnostico_presuntivo": "Apendicitis aguda",
+  "tratamiento_indicado": "Referido a cirugía y analgésicos",
+  "observaciones": "Se solicita hemograma y ultrasonido abdominal"
+}

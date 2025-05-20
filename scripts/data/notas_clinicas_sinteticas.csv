@@ -1,0 +1,101 @@
+nombre_paciente,edad,sexo,fecha_consulta,motivo_consulta,antecedentes,diagnostico_presuntivo,tratamiento_indicado,observaciones
+Felix Heras Plana,32,Masculino,2025-04-14,Dificultad respiratoria,Sin antecedentes relevantes.,Neumonía bacteriana,Antibióticos y observación,Control en 48 horas
+Ceferino Adán Luz,31,Masculino,2025-04-10,Cefalea intensa,Asma leve desde la infancia.,Apendicitis aguda,"Reposo, líquidos y analgésicos",Se solicita hemograma y ultrasonido abdominal
+María Cristina Hernández Leon,45,Masculino,2025-01-26,Cefalea intensa,Alergia a penicilina.,Apendicitis aguda,Oxigenoterapia,Control en 48 horas
+Yolanda Calixta Arenas Figuerola,87,Femenino,2025-02-14,Fiebre persistente,Asma leve desde la infancia.,COVID-19 leve,Referido a cirugía,Se solicita hemograma y ultrasonido abdominal
+Celso Tur Gracia,38,Femenino,2025-04-10,Dolor torácico,Sin antecedentes relevantes.,Neumonía bacteriana,Antibióticos y observación,Solicita TAC
+Jose Carlos Solana Ribera,31,Masculino,2025-01-15,Fatiga crónica,Hipertensión controlada con losartán.,Migraña crónica,Referido a cirugía,Consulta con cardiología
+Pepe Campillo Polo,51,Masculino,2025-02-19,Dificultad respiratoria,Asma leve desde la infancia.,COVID-19 leve,"Reposo, líquidos y analgésicos",Se realiza espirometría
+Alba Castañeda Lladó,28,Femenino,2025-02-09,Dificultad respiratoria,Alergia a penicilina.,Migraña crónica,Oxigenoterapia,Control en 48 horas
+Aurelia Lillo Guardia,26,Masculino,2025-03-30,Dificultad respiratoria,Diabetes mellitus tipo II.,Migraña crónica,"Reposo, líquidos y analgésicos",Control en 48 horas
+Amarilis Pacheco Pablo,30,Femenino,2025-04-05,Dolor torácico,Asma leve desde la infancia.,Gastritis,Referido a cirugía,Control en 48 horas
+Onofre del Iglesias,65,Femenino,2025-03-05,Fiebre persistente,Enfermedad renal crónica.,Migraña crónica,Cambio de dieta y omeprazol,Monitorización de signos vitales
+Eduardo Bellido,27,Masculino,2025-04-12,Cefalea intensa,Enfermedad renal crónica.,Neumonía bacteriana,Antibióticos y observación,Se realiza espirometría
+Fanny Cuadrado Bravo,66,Femenino,2025-02-19,Dificultad respiratoria,Enfermedad renal crónica.,COVID-19 leve,Antibióticos y observación,Monitorización de signos vitales
+Adolfo Pol Carrasco,59,Masculino,2025-03-30,Fiebre persistente,Hipertensión controlada con losartán.,Migraña crónica,Monitoreo ambulatorio,Solicita TAC
+Isaac Oller,26,Masculino,2025-01-10,Cefalea intensa,Enfermedad renal crónica.,Migraña crónica,Antibióticos y observación,Monitorización de signos vitales
+Espiridión Gilabert Pallarès,81,Femenino,2025-03-06,Dificultad respiratoria,Asma leve desde la infancia.,Neumonía bacteriana,Referido a cirugía,Control en 48 horas
+Vinicio Fidel Quintero Navas,49,Femenino,2025-02-02,Dificultad respiratoria,Alergia a penicilina.,Hipertensión esencial,Oxigenoterapia,Se realiza espirometría
+Gervasio Mayoral Cabo,64,Masculino,2025-02-22,Fiebre persistente,Alergia a penicilina.,Hipertensión esencial,"Reposo, líquidos y analgésicos",Se solicita hemograma y ultrasonido abdominal
+Priscila Carbó Oliver,32,Masculino,2025-01-05,Dificultad respiratoria,Diabetes mellitus tipo II.,Gastritis,Monitoreo ambulatorio,Consulta con cardiología
+Aarón Mir Río,26,Femenino,2025-01-07,Fatiga crónica,Alergia a penicilina.,Hipertensión esencial,Oxigenoterapia,Solicita TAC
+Eugenia Martin Soto,88,Masculino,2025-02-22,Dificultad respiratoria,Enfermedad renal crónica.,Apendicitis aguda,Cambio de dieta y omeprazol,Consulta con cardiología
+Cristian Alejo Bermúdez Tur,52,Femenino,2025-03-06,Dolor abdominal agudo,Sin antecedentes relevantes.,Hipertensión esencial,Antibióticos y observación,Se realiza espirometría
+Dionisio Echevarría Diez,18,Femenino,2025-02-19,Cefalea intensa,Diabetes mellitus tipo II.,COVID-19 leve,"Reposo, líquidos y analgésicos",Monitorización de signos vitales
+Ulises Tenorio Pozuelo,56,Masculino,2025-02-13,Fiebre persistente,Sin antecedentes relevantes.,Neumonía bacteriana,Oxigenoterapia,Consulta con cardiología
+Rico Peñalver Osorio,18,Femenino,2025-01-12,Fatiga crónica,Hipertensión controlada con losartán.,Apendicitis aguda,Referido a cirugía,Solicita TAC
+Sancho del Villegas,48,Masculino,2025-01-15,Fiebre persistente,Alergia a penicilina.,Apendicitis aguda,"Reposo, líquidos y analgésicos",Monitorización de signos vitales
+Gertrudis Castañeda Diego,80,Masculino,2025-01-15,Cefalea intensa,Diabetes mellitus tipo II.,Neumonía bacteriana,Cambio de dieta y omeprazol,Se realiza espirometría
+Eva Barros Lucas,88,Masculino,2025-03-03,Dolor torácico,Alergia a penicilina.,COVID-19 leve,Monitoreo ambulatorio,Control en 48 horas
+Sebastian Cazorla Aguilar,87,Masculino,2025-02-09,Dificultad respiratoria,Sin antecedentes relevantes.,Hipertensión esencial,Cambio de dieta y omeprazol,Monitorización de signos vitales
+Sarita Pedraza Esparza,65,Femenino,2025-03-21,Cefalea intensa,Asma leve desde la infancia.,Apendicitis aguda,Antibióticos y observación,Control en 48 horas
+Rafa Gomis Moraleda,26,Femenino,2025-01-15,Dolor abdominal agudo,Alergia a penicilina.,COVID-19 leve,Antibióticos y observación,Consulta con cardiología
+Rita de Tejedor,46,Masculino,2025-01-29,Dolor abdominal agudo,Enfermedad renal crónica.,Gastritis,"Reposo, líquidos y analgésicos",Control en 48 horas
+Viviana Tormo,26,Masculino,2025-03-15,Dolor torácico,Hipertensión controlada con losartán.,COVID-19 leve,Antibióticos y observación,Solicita TAC
+Camilo del Grande,80,Masculino,2025-02-03,Cefalea intensa,Diabetes mellitus tipo II.,Gastritis,Oxigenoterapia,Consulta con cardiología
+Eva Leiva Lopez,78,Masculino,2025-03-09,Fatiga crónica,Asma leve desde la infancia.,Neumonía bacteriana,"Reposo, líquidos y analgésicos",Se solicita hemograma y ultrasonido abdominal
+Alonso Villena Arce,73,Femenino,2025-01-03,Fatiga crónica,Asma leve desde la infancia.,Hipertensión esencial,Cambio de dieta y omeprazol,Se solicita hemograma y ultrasonido abdominal
+Pastora Roxana Fonseca Gomila,30,Masculino,2025-02-04,Fatiga crónica,Enfermedad renal crónica.,Migraña crónica,"Reposo, líquidos y analgésicos",Control en 48 horas
+Valero Rosa,42,Masculino,2025-02-11,Cefalea intensa,Asma leve desde la infancia.,Neumonía bacteriana,Monitoreo ambulatorio,Control en 48 horas
+Serafina Vaquero Pascual,53,Femenino,2025-04-09,Fiebre persistente,Hipertensión controlada con losartán.,Hipertensión esencial,Oxigenoterapia,Se solicita hemograma y ultrasonido abdominal
+Edelmiro Torrens Cazorla,24,Masculino,2025-04-05,Dolor abdominal agudo,Diabetes mellitus tipo II.,Neumonía bacteriana,Monitoreo ambulatorio,Se realiza espirometría
+Josefina de Lasa,79,Masculino,2025-02-13,Fatiga crónica,Hipertensión controlada con losartán.,Neumonía bacteriana,Monitoreo ambulatorio,Se solicita hemograma y ultrasonido abdominal
+Silvestre Andrade Trillo,67,Femenino,2025-02-16,Fatiga crónica,Sin antecedentes relevantes.,Hipertensión esencial,Cambio de dieta y omeprazol,Monitorización de signos vitales
+Maximino del Segura,89,Femenino,2025-02-01,Fiebre persistente,Diabetes mellitus tipo II.,Migraña crónica,Antibióticos y observación,Se solicita hemograma y ultrasonido abdominal
+Galo Gabaldón,87,Masculino,2025-02-27,Dificultad respiratoria,Sin antecedentes relevantes.,Apendicitis aguda,"Reposo, líquidos y analgésicos",Consulta con cardiología
+Hector Gomis-Rojas,79,Masculino,2025-01-12,Dolor abdominal agudo,Alergia a penicilina.,Apendicitis aguda,Antibióticos y observación,Se solicita hemograma y ultrasonido abdominal
+Manola Pujadas Alemán,26,Masculino,2025-03-14,Fatiga crónica,Hipertensión controlada con losartán.,COVID-19 leve,Antibióticos y observación,Consulta con cardiología
+Araceli Catalina Mendizábal Varela,23,Masculino,2025-02-01,Fatiga crónica,Enfermedad renal crónica.,COVID-19 leve,Oxigenoterapia,Consulta con cardiología
+Sandalio Cañete-Fuster,58,Femenino,2025-01-10,Fiebre persistente,Enfermedad renal crónica.,Gastritis,Referido a cirugía,Control en 48 horas
+José Manuel Giménez Cabeza,51,Femenino,2025-02-21,Fiebre persistente,Enfermedad renal crónica.,Gastritis,Referido a cirugía,Se realiza espirometría
+Fito Conde Pareja,58,Masculino,2025-04-04,Dolor abdominal agudo,Asma leve desde la infancia.,COVID-19 leve,Oxigenoterapia,Se solicita hemograma y ultrasonido abdominal
+Alonso Cazorla Cepeda,27,Masculino,2025-03-17,Cefalea intensa,Sin antecedentes relevantes.,Neumonía bacteriana,Referido a cirugía,Se solicita hemograma y ultrasonido abdominal
+Concepción Montserrat Ariza,49,Femenino,2025-02-03,Dolor torácico,Diabetes mellitus tipo II.,Hipertensión esencial,Oxigenoterapia,Monitorización de signos vitales
+Enrique Higueras Tejada,56,Masculino,2025-03-20,Dificultad respiratoria,Alergia a penicilina.,Migraña crónica,Cambio de dieta y omeprazol,Se solicita hemograma y ultrasonido abdominal
+Rocío Villena Benito,35,Femenino,2025-04-05,Dolor abdominal agudo,Hipertensión controlada con losartán.,Gastritis,Oxigenoterapia,Control en 48 horas
+Kike Estevez Landa,52,Femenino,2025-02-22,Cefalea intensa,Diabetes mellitus tipo II.,Gastritis,Referido a cirugía,Control en 48 horas
+Magdalena Menéndez Aguilera,51,Femenino,2025-01-13,Dolor torácico,Hipertensión controlada con losartán.,Apendicitis aguda,Cambio de dieta y omeprazol,Se realiza espirometría
+Amando Espejo-Manrique,53,Masculino,2025-01-23,Dolor abdominal agudo,Sin antecedentes relevantes.,Neumonía bacteriana,Cambio de dieta y omeprazol,Solicita TAC
+Fidela Ortuño,38,Femenino,2025-03-12,Cefalea intensa,Enfermedad renal crónica.,Hipertensión esencial,Oxigenoterapia,Se solicita hemograma y ultrasonido abdominal
+Fabián Robles Julián,32,Masculino,2025-04-14,Dificultad respiratoria,Diabetes mellitus tipo II.,COVID-19 leve,"Reposo, líquidos y analgésicos",Solicita TAC
+Nieves Olmedo Hervás,88,Masculino,2025-01-05,Fatiga crónica,Diabetes mellitus tipo II.,Apendicitis aguda,Referido a cirugía,Solicita TAC
+Obdulia Merino Miranda,23,Femenino,2025-03-02,Fiebre persistente,Enfermedad renal crónica.,Neumonía bacteriana,Cambio de dieta y omeprazol,Se solicita hemograma y ultrasonido abdominal
+Jose Manuel Aguilar Pera,63,Femenino,2025-01-17,Cefalea intensa,Enfermedad renal crónica.,Neumonía bacteriana,Antibióticos y observación,Control en 48 horas
+Nuria del Diez,40,Femenino,2025-03-27,Dolor abdominal agudo,Diabetes mellitus tipo II.,Gastritis,Referido a cirugía,Se realiza espirometría
+Chuy Quiroga Menéndez,49,Femenino,2025-04-16,Fiebre persistente,Enfermedad renal crónica.,Apendicitis aguda,Monitoreo ambulatorio,Se solicita hemograma y ultrasonido abdominal
+Urbano Emigdio Morell Valera,78,Masculino,2025-03-23,Fiebre persistente,Asma leve desde la infancia.,Migraña crónica,Referido a cirugía,Control en 48 horas
+Teresita Llopis Zabaleta,46,Masculino,2025-01-07,Dificultad respiratoria,Diabetes mellitus tipo II.,Hipertensión esencial,Referido a cirugía,Solicita TAC
+Ainara Espinosa Torrecilla,26,Femenino,2025-03-28,Dolor torácico,Enfermedad renal crónica.,COVID-19 leve,Monitoreo ambulatorio,Monitorización de signos vitales
+Clemente Barceló Cuevas,86,Femenino,2025-04-05,Dolor abdominal agudo,Hipertensión controlada con losartán.,Migraña crónica,Antibióticos y observación,Consulta con cardiología
+Samuel de Páez,51,Masculino,2025-01-30,Dolor abdominal agudo,Alergia a penicilina.,Hipertensión esencial,Referido a cirugía,Monitorización de signos vitales
+Bruno de Osuna,58,Femenino,2025-04-19,Cefalea intensa,Alergia a penicilina.,Apendicitis aguda,Monitoreo ambulatorio,Consulta con cardiología
+Celestino Milla Chico,42,Femenino,2025-04-07,Dolor abdominal agudo,Enfermedad renal crónica.,Hipertensión esencial,"Reposo, líquidos y analgésicos",Consulta con cardiología
+Clímaco Salazar Castelló,86,Masculino,2025-01-02,Dolor torácico,Asma leve desde la infancia.,Apendicitis aguda,Cambio de dieta y omeprazol,Solicita TAC
+Noemí Valderrama Cabrera,58,Masculino,2025-04-08,Dificultad respiratoria,Sin antecedentes relevantes.,COVID-19 leve,Referido a cirugía,Monitorización de signos vitales
+Jose Francisco Briones Blasco,70,Femenino,2025-01-30,Fatiga crónica,Enfermedad renal crónica.,Migraña crónica,Oxigenoterapia,Control en 48 horas
+Francisco Jose Águila Nicolau,42,Femenino,2025-03-21,Dificultad respiratoria,Asma leve desde la infancia.,Gastritis,Cambio de dieta y omeprazol,Control en 48 horas
+Miriam Ortega-Cisneros,90,Femenino,2025-02-08,Fatiga crónica,Alergia a penicilina.,Apendicitis aguda,Referido a cirugía,Solicita TAC
+Samuel Raúl Mulet Cuesta,44,Femenino,2025-02-28,Cefalea intensa,Alergia a penicilina.,Gastritis,Referido a cirugía,Se realiza espirometría
+Lázaro Riera-Gomis,74,Femenino,2025-03-17,Dificultad respiratoria,Diabetes mellitus tipo II.,COVID-19 leve,Monitoreo ambulatorio,Monitorización de signos vitales
+Esperanza Alemany Pereira,39,Masculino,2025-01-18,Dolor torácico,Alergia a penicilina.,Gastritis,Cambio de dieta y omeprazol,Consulta con cardiología
+Verónica Campos Colom,60,Masculino,2025-03-19,Fiebre persistente,Enfermedad renal crónica.,Migraña crónica,Antibióticos y observación,Control en 48 horas
+América Salamanca Cañete,36,Masculino,2025-02-23,Dolor abdominal agudo,Diabetes mellitus tipo II.,Hipertensión esencial,Oxigenoterapia,Se solicita hemograma y ultrasonido abdominal
+Ángeles Ojeda-Tejedor,76,Femenino,2025-02-20,Dificultad respiratoria,Alergia a penicilina.,Neumonía bacteriana,Cambio de dieta y omeprazol,Monitorización de signos vitales
+Juana de Mosquera,67,Femenino,2025-03-16,Fatiga crónica,Diabetes mellitus tipo II.,Neumonía bacteriana,Cambio de dieta y omeprazol,Monitorización de signos vitales
+Amado Polo Malo,18,Masculino,2025-03-25,Fatiga crónica,Diabetes mellitus tipo II.,Neumonía bacteriana,Cambio de dieta y omeprazol,Consulta con cardiología
+Lupe Galiano,77,Masculino,2025-02-27,Cefalea intensa,Diabetes mellitus tipo II.,Apendicitis aguda,Monitoreo ambulatorio,Control en 48 horas
+Ezequiel del Escamilla,77,Femenino,2025-02-10,Fatiga crónica,Alergia a penicilina.,Gastritis,Oxigenoterapia,Se realiza espirometría
+Ramiro Castro,88,Femenino,2025-03-17,Fiebre persistente,Enfermedad renal crónica.,Hipertensión esencial,Monitoreo ambulatorio,Solicita TAC
+Segismundo Cobos Murillo,49,Femenino,2025-04-14,Cefalea intensa,Asma leve desde la infancia.,Gastritis,Antibióticos y observación,Solicita TAC
+Narciso Portero Seco,74,Masculino,2025-03-20,Dificultad respiratoria,Sin antecedentes relevantes.,Neumonía bacteriana,Referido a cirugía,Solicita TAC
+Severino Sabater-Mur,58,Masculino,2025-04-04,Fiebre persistente,Diabetes mellitus tipo II.,Neumonía bacteriana,Monitoreo ambulatorio,Monitorización de signos vitales
+Primitiva Cervera Olivera,37,Masculino,2025-01-18,Dolor abdominal agudo,Asma leve desde la infancia.,Hipertensión esencial,Referido a cirugía,Consulta con cardiología
+Apolonia Ana Sofía Baños Cabañas,77,Femenino,2025-01-28,Dolor abdominal agudo,Diabetes mellitus tipo II.,Hipertensión esencial,Monitoreo ambulatorio,Consulta con cardiología
+Ovidio Chamorro,20,Femenino,2025-04-19,Fatiga crónica,Hipertensión controlada con losartán.,Migraña crónica,Referido a cirugía,Se realiza espirometría
+José María Arévalo Iglesia,71,Masculino,2025-01-13,Fatiga crónica,Diabetes mellitus tipo II.,Migraña crónica,Monitoreo ambulatorio,Se realiza espirometría
+Enrique Redondo Ibañez,21,Femenino,2025-04-02,Dolor torácico,Enfermedad renal crónica.,Gastritis,Monitoreo ambulatorio,Monitorización de signos vitales
+Rufina Ana Cases Saavedra,39,Femenino,2025-02-23,Fiebre persistente,Alergia a penicilina.,COVID-19 leve,"Reposo, líquidos y analgésicos",Se realiza espirometría
+Fabio Sabater Calzada,90,Masculino,2025-03-25,Dolor abdominal agudo,Enfermedad renal crónica.,Hipertensión esencial,Antibióticos y observación,Se realiza espirometría
+Adelardo Córdoba Bauzà,41,Masculino,2025-04-02,Dolor torácico,Asma leve desde la infancia.,Migraña crónica,Antibióticos y observación,Se realiza espirometría
+Jovita Sevilla Prada,59,Femenino,2025-04-17,Fatiga crónica,Sin antecedentes relevantes.,Hipertensión esencial,Referido a cirugía,Se solicita hemograma y ultrasonido abdominal
+Hilario Jara-Alcalá,78,Masculino,2025-03-25,Dificultad respiratoria,Alergia a penicilina.,Apendicitis aguda,Referido a cirugía,Control en 48 horas
