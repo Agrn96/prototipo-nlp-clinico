@@ -1,0 +1,26 @@
+[
+    {
+        "texto": "fiebre persistente",
+        "etiqueta": "SINTOMA"
+    },
+    {
+        "texto": "dificultad respiratoria",
+        "etiqueta": "SINTOMA"
+    },
+    {
+        "texto": "se solicita hemograma y ultrasonido abdominal",
+        "etiqueta": "PROCEDIMIENTO"
+    },
+    {
+        "texto": "solicita TAC",
+        "etiqueta": "PROCEDIMIENTO"
+    },
+    {
+        "texto": "neumonía bacteriana",
+        "etiqueta": "DIAGNOSTICO"
+    },
+    {
+        "texto": "oxigenoterapia",
+        "etiqueta": "TRATAMIENTO"
+    }
+]

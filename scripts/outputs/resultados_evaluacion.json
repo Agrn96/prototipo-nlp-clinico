@@ -1,0 +1,2150 @@
+[
+    {
+        "registro": 1,
+        "texto": "Dificultad respiratoria. Neumonía bacteriana. Control en 48 horas. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 2,
+        "texto": "Cefalea intensa. Apendicitis aguda. Se solicita hemograma y ultrasonido abdominal. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 3,
+        "texto": "Cefalea intensa. Apendicitis aguda. Control en 48 horas. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 4,
+        "texto": "Fiebre persistente. COVID-19 leve. Se solicita hemograma y ultrasonido abdominal. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 5,
+        "texto": "Dolor torácico. Neumonía bacteriana. Solicita TAC. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 6,
+        "texto": "Fatiga crónica. Migraña crónica. Consulta con cardiología. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 7,
+        "texto": "Dificultad respiratoria. COVID-19 leve. Se realiza espirometría. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 8,
+        "texto": "Dificultad respiratoria. Migraña crónica. Control en 48 horas. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 9,
+        "texto": "Dificultad respiratoria. Migraña crónica. Control en 48 horas. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 10,
+        "texto": "Dolor torácico. Gastritis. Control en 48 horas. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 11,
+        "texto": "Fiebre persistente. Migraña crónica. Monitorización de signos vitales. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 12,
+        "texto": "Cefalea intensa. Neumonía bacteriana. Se realiza espirometría. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 13,
+        "texto": "Dificultad respiratoria. COVID-19 leve. Monitorización de signos vitales. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 14,
+        "texto": "Fiebre persistente. Migraña crónica. Solicita TAC. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 15,
+        "texto": "Cefalea intensa. Migraña crónica. Monitorización de signos vitales. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 16,
+        "texto": "Dificultad respiratoria. Neumonía bacteriana. Control en 48 horas. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 17,
+        "texto": "Dificultad respiratoria. Hipertensión esencial. Se realiza espirometría. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 18,
+        "texto": "Fiebre persistente. Hipertensión esencial. Se solicita hemograma y ultrasonido abdominal. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 19,
+        "texto": "Dificultad respiratoria. Gastritis. Consulta con cardiología. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 20,
+        "texto": "Fatiga crónica. Hipertensión esencial. Solicita TAC. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 21,
+        "texto": "Dificultad respiratoria. Apendicitis aguda. Consulta con cardiología. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 22,
+        "texto": "Dolor abdominal agudo. Hipertensión esencial. Se realiza espirometría. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 23,
+        "texto": "Cefalea intensa. COVID-19 leve. Monitorización de signos vitales. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 24,
+        "texto": "Fiebre persistente. Neumonía bacteriana. Consulta con cardiología. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 25,
+        "texto": "Fatiga crónica. Apendicitis aguda. Solicita TAC. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 26,
+        "texto": "Fiebre persistente. Apendicitis aguda. Monitorización de signos vitales. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 27,
+        "texto": "Cefalea intensa. Neumonía bacteriana. Se realiza espirometría. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 28,
+        "texto": "Dolor torácico. COVID-19 leve. Control en 48 horas. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 29,
+        "texto": "Dificultad respiratoria. Hipertensión esencial. Monitorización de signos vitales. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 30,
+        "texto": "Cefalea intensa. Apendicitis aguda. Control en 48 horas. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 31,
+        "texto": "Dolor abdominal agudo. COVID-19 leve. Consulta con cardiología. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 32,
+        "texto": "Dolor abdominal agudo. Gastritis. Control en 48 horas. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 33,
+        "texto": "Dolor torácico. COVID-19 leve. Solicita TAC. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 34,
+        "texto": "Cefalea intensa. Gastritis. Consulta con cardiología. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 35,
+        "texto": "Fatiga crónica. Neumonía bacteriana. Se solicita hemograma y ultrasonido abdominal. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 36,
+        "texto": "Fatiga crónica. Hipertensión esencial. Se solicita hemograma y ultrasonido abdominal. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 37,
+        "texto": "Fatiga crónica. Migraña crónica. Control en 48 horas. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 38,
+        "texto": "Cefalea intensa. Neumonía bacteriana. Control en 48 horas. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 39,
+        "texto": "Fiebre persistente. Hipertensión esencial. Se solicita hemograma y ultrasonido abdominal. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 40,
+        "texto": "Dolor abdominal agudo. Neumonía bacteriana. Se realiza espirometría. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 41,
+        "texto": "Fatiga crónica. Neumonía bacteriana. Se solicita hemograma y ultrasonido abdominal. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 42,
+        "texto": "Fatiga crónica. Hipertensión esencial. Monitorización de signos vitales. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 43,
+        "texto": "Fiebre persistente. Migraña crónica. Se solicita hemograma y ultrasonido abdominal. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 44,
+        "texto": "Dificultad respiratoria. Apendicitis aguda. Consulta con cardiología. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 45,
+        "texto": "Dolor abdominal agudo. Apendicitis aguda. Se solicita hemograma y ultrasonido abdominal. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 46,
+        "texto": "Fatiga crónica. COVID-19 leve. Consulta con cardiología. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 47,
+        "texto": "Fatiga crónica. COVID-19 leve. Consulta con cardiología. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 48,
+        "texto": "Fiebre persistente. Gastritis. Control en 48 horas. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 49,
+        "texto": "Fiebre persistente. Gastritis. Se realiza espirometría. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 50,
+        "texto": "Dolor abdominal agudo. COVID-19 leve. Se solicita hemograma y ultrasonido abdominal. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 51,
+        "texto": "Cefalea intensa. Neumonía bacteriana. Se solicita hemograma y ultrasonido abdominal. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 52,
+        "texto": "Dolor torácico. Hipertensión esencial. Monitorización de signos vitales. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 53,
+        "texto": "Dificultad respiratoria. Migraña crónica. Se solicita hemograma y ultrasonido abdominal. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 54,
+        "texto": "Dolor abdominal agudo. Gastritis. Control en 48 horas. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 55,
+        "texto": "Cefalea intensa. Gastritis. Control en 48 horas. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 56,
+        "texto": "Dolor torácico. Apendicitis aguda. Se realiza espirometría. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 57,
+        "texto": "Dolor abdominal agudo. Neumonía bacteriana. Solicita TAC. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 58,
+        "texto": "Cefalea intensa. Hipertensión esencial. Se solicita hemograma y ultrasonido abdominal. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 59,
+        "texto": "Dificultad respiratoria. COVID-19 leve. Solicita TAC. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 60,
+        "texto": "Fatiga crónica. Apendicitis aguda. Solicita TAC. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 61,
+        "texto": "Fiebre persistente. Neumonía bacteriana. Se solicita hemograma y ultrasonido abdominal. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 62,
+        "texto": "Cefalea intensa. Neumonía bacteriana. Control en 48 horas. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 63,
+        "texto": "Dolor abdominal agudo. Gastritis. Se realiza espirometría. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 64,
+        "texto": "Fiebre persistente. Apendicitis aguda. Se solicita hemograma y ultrasonido abdominal. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 65,
+        "texto": "Fiebre persistente. Migraña crónica. Control en 48 horas. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 66,
+        "texto": "Dificultad respiratoria. Hipertensión esencial. Solicita TAC. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 67,
+        "texto": "Dolor torácico. COVID-19 leve. Monitorización de signos vitales. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 68,
+        "texto": "Dolor abdominal agudo. Migraña crónica. Consulta con cardiología. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 69,
+        "texto": "Dolor abdominal agudo. Hipertensión esencial. Monitorización de signos vitales. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 70,
+        "texto": "Cefalea intensa. Apendicitis aguda. Consulta con cardiología. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 71,
+        "texto": "Dolor abdominal agudo. Hipertensión esencial. Consulta con cardiología. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 72,
+        "texto": "Dolor torácico. Apendicitis aguda. Solicita TAC. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 73,
+        "texto": "Dificultad respiratoria. COVID-19 leve. Monitorización de signos vitales. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 74,
+        "texto": "Fatiga crónica. Migraña crónica. Control en 48 horas. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 75,
+        "texto": "Dificultad respiratoria. Gastritis. Control en 48 horas. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 76,
+        "texto": "Fatiga crónica. Apendicitis aguda. Solicita TAC. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 77,
+        "texto": "Cefalea intensa. Gastritis. Se realiza espirometría. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 78,
+        "texto": "Dificultad respiratoria. COVID-19 leve. Monitorización de signos vitales. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 79,
+        "texto": "Dolor torácico. Gastritis. Consulta con cardiología. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 80,
+        "texto": "Fiebre persistente. Migraña crónica. Control en 48 horas. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 81,
+        "texto": "Dolor abdominal agudo. Hipertensión esencial. Se solicita hemograma y ultrasonido abdominal. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 82,
+        "texto": "Dificultad respiratoria. Neumonía bacteriana. Monitorización de signos vitales. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 83,
+        "texto": "Fatiga crónica. Neumonía bacteriana. Monitorización de signos vitales. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 84,
+        "texto": "Fatiga crónica. Neumonía bacteriana. Consulta con cardiología. Cambio de dieta y omeprazol.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Cambio de dieta y omeprazol",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 85,
+        "texto": "Cefalea intensa. Apendicitis aguda. Control en 48 horas. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 86,
+        "texto": "Fatiga crónica. Gastritis. Se realiza espirometría. Oxigenoterapia.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Oxigenoterapia",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 87,
+        "texto": "Fiebre persistente. Hipertensión esencial. Solicita TAC. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 88,
+        "texto": "Cefalea intensa. Gastritis. Solicita TAC. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Cefalea intensa",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 89,
+        "texto": "Dificultad respiratoria. Neumonía bacteriana. Solicita TAC. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Solicita TAC",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 90,
+        "texto": "Fiebre persistente. Neumonía bacteriana. Monitorización de signos vitales. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Neumonía bacteriana",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 91,
+        "texto": "Dolor abdominal agudo. Hipertensión esencial. Consulta con cardiología. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 92,
+        "texto": "Dolor abdominal agudo. Hipertensión esencial. Consulta con cardiología. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Consulta con cardiología",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 93,
+        "texto": "Fatiga crónica. Migraña crónica. Se realiza espirometría. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 94,
+        "texto": "Fatiga crónica. Migraña crónica. Se realiza espirometría. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 95,
+        "texto": "Dolor torácico. Gastritis. Monitorización de signos vitales. Monitoreo ambulatorio.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Gastritis",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Monitorización de signos vitales",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Monitoreo ambulatorio",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 96,
+        "texto": "Fiebre persistente. COVID-19 leve. Se realiza espirometría. Reposo, líquidos y analgésicos.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fiebre persistente",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "COVID-19 leve",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 97,
+        "texto": "Dolor abdominal agudo. Hipertensión esencial. Se realiza espirometría. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor abdominal agudo",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 98,
+        "texto": "Dolor torácico. Migraña crónica. Se realiza espirometría. Antibióticos y observación.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dolor torácico",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Migraña crónica",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se realiza espirometría",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Antibióticos y observación",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 99,
+        "texto": "Fatiga crónica. Hipertensión esencial. Se solicita hemograma y ultrasonido abdominal. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Fatiga crónica",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Hipertensión esencial",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Se solicita hemograma y ultrasonido abdominal",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    },
+    {
+        "registro": 100,
+        "texto": "Dificultad respiratoria. Apendicitis aguda. Control en 48 horas. Referido a cirugía.",
+        "entidades_detectadas": [
+            {
+                "texto": "Dificultad respiratoria",
+                "etiqueta": "SINTOMA"
+            },
+            {
+                "texto": "Apendicitis aguda",
+                "etiqueta": "DIAGNOSTICO"
+            },
+            {
+                "texto": "Control en 48 horas",
+                "etiqueta": "PROCEDIMIENTO"
+            },
+            {
+                "texto": "Referido a cirugía",
+                "etiqueta": "TRATAMIENTO"
+            }
+        ]
+    }
+]
