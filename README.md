@@ -35,6 +35,9 @@ Se simula el entorno de un registro electrónico de salud mediante un conjunto d
 ├── scripts/                                     # Código fuente del sistema
 │   ├── data/                                    # Datos clínicos sintéticos
 │   │   └── notas_clinicas_sinteticas.csv        # Archivo CSV con 100 registros generados
+│   ├── outputs/                                 # Archivos de salida generados por el sistema
+│   │   └── resultado_prueba.json                # Entidades anotadas para un registro de prueba individual
+│   │   └── resultado_evaluacion.json            # Resultado en lote de entidades anotadas en los 100 registros sintéticos
 │   ├── env.bat                                  # Script para inicializar entorno virtual en Windows
 │   ├── generar_csv.py                           # Generación de registros clínicos sintéticos
 │   ├── nlp_pipeline.py                          # Carga del modelo BETO y patrones de anotación
