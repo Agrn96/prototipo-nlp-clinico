@@ -1,0 +1,30 @@
+# Python virtual environments
+env/
+venv/
+.venv/
+
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Generated demo and evaluation results
+/scripts/outputs/
+
+# Local secrets (keep env.bat tracked)
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary logs
+*.log
